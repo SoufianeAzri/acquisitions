@@ -1,0 +1,15 @@
+{"level":"error","message":"Error creating the user Error: User already exists","service":"acquisitions"}
+{"level":"error","message":"Sign up error","service":"acquisitions"}
+{"level":"error","message":"Error creating the user Error: User already exists","service":"acquisitions"}
+{"level":"error","message":"Sign up error","service":"acquisitions"}
+{"level":"error","message":"Error creating the user Error: User already exists","service":"acquisitions"}
+{"level":"error","message":"Sign up error","service":"acquisitions"}
+{"level":"error","message":"Error creating the user Error: User already exists","service":"acquisitions"}
+{"level":"error","message":"Sign up error","service":"acquisitions"}
+{"level":"error","message":"undefined","service":"acquisitions"}
+{"level":"error","message":"Error creating the user Error: User already exists","service":"acquisitions"}
+{"level":"error","message":"Sign up error","service":"acquisitions"}
+{"level":"error","message":"Error creating the user TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))","service":"acquisitions"}
+{"level":"error","message":"Sign up error","service":"acquisitions"}
+{"level":"error","message":"Error creating the user TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))","service":"acquisitions"}
+{"level":"error","message":"Sign up error","service":"acquisitions"}

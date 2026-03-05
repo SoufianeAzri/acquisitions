@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log*
+.git
+.gitignore
+.env
+.env.*
+.neon_local
+logs
+*.md
+.prettierrc
+.prettierignore
+eslint.config.js

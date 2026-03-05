@@ -1,0 +1,114 @@
+{"level":"info","message":"Hello from Acquisitions !","service":"acquisitions"}
+{"level":"info","message":"::1 - - [03/Feb/2026:11:31:33 +0000] \"GET / HTTP/1.1\" 200 23 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0\"","service":"acquisitions"}
+{"level":"info","message":"::1 - - [03/Feb/2026:11:31:33 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0\"","service":"acquisitions"}
+{"level":"info","message":"::1 - - [05/Feb/2026:10:03:49 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0\"","service":"acquisitions"}
+{"level":"info","message":"::1 - - [05/Feb/2026:10:03:56 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:10:05:02 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"Hello from Acquisitions !","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:10:05:31 +0000] \"GET / HTTP/1.1\" 200 23 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:10:05:46 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:10:05:57 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:10:06:16 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 22 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:11:32:37 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 22 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:11:32:47 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:11:34:43 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 91 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"User has been created successfully soufiane@gmail.com","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:11:34:53 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 106 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:11:38:41 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"User has been created successfully soufiane@gmail.com","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:11:38:49 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 106 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"error","message":"Error creating the user Error: User already exists","service":"acquisitions"}
+{"level":"error","message":"Sign up error","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:12:07:35 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 375 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"error","message":"Error creating the user Error: User already exists","service":"acquisitions"}
+{"level":"error","message":"Sign up error","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:12:08:11 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1299 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"error","message":"Error creating the user Error: User already exists","service":"acquisitions"}
+{"level":"error","message":"Sign up error","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:12:09:52 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1299 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"undefined","service":"acquisitions"}
+{"level":"error","message":"Error creating the user Error: User already exists","service":"acquisitions"}
+{"level":"error","message":"Sign up error","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:12:11:09 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1299 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"error","message":"undefined","service":"acquisitions"}
+{"level":"error","message":"Error creating the user Error: User already exists","service":"acquisitions"}
+{"level":"error","message":"Sign up error","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:12:13:06 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 1299 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"error","message":"Error creating the user TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))","service":"acquisitions"}
+{"level":"error","message":"Sign up error","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:12:14:56 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 453 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"error","message":"Error creating the user TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))","service":"acquisitions"}
+{"level":"error","message":"Sign up error","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:12:15:38 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 500 453 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"User created soufiane@gmail.com has been created successfully","service":"acquisitions"}
+{"level":"info","message":"User has been created successfully soufiane@gmail.com","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Feb/2026:12:16:46 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 106 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"User soufiane@gmail.com authenticated successfully","service":"acquisitions"}
+{"level":"info","message":"User signed in successfully soufiane@gmail.com","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Mar/2026:17:09:27 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 105 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [02/Mar/2026:17:10:13 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 29 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::1 - - [02/Mar/2026:17:16:58 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:22:51 +0000] \"POST /health HTTP/1.1\" 404 146 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:22:54 +0000] \"POST /health HTTP/1.1\" 404 146 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:22:55 +0000] \"POST /health HTTP/1.1\" 404 146 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:23:00 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:37 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:37 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:37 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:37 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:38 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:38 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:38 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:38 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:38 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:38 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:39 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:39 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:39 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:39 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:39 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:39 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:40 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:40 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:40 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:40 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:40 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:40 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:41 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:41 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:41 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:41 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:46 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:46 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:46 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:47 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:47 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:47 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:47 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:47 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:47 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:47 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:48 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:48 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:48 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:48 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:48 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:48 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:49 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:49 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:49 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:49 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:49 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:49 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:50 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:50 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:50 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:50 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:50 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:50 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:51 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:51 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:51 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:51 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Mar/2026:00:24:51 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Thunder Client (https://www.thunderclient.com)\"","service":"acquisitions"}
