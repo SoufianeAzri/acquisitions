@@ -83,6 +83,7 @@ docker compose -f docker-compose.prod.yml up --build -d
 ```
 
 This runs the app with:
+
 - Production-only `node_modules` (no dev dependencies)
 - Non-root `appuser` for security
 - Health check on `/health`
@@ -96,26 +97,26 @@ docker compose -f docker-compose.prod.yml down
 
 ## How DATABASE_URL Switches Between Environments
 
-| Environment | DATABASE_URL | How it's set |
-|-------------|-------------|--------------|
+| Environment | DATABASE_URL                                 | How it's set                                        |
+| ----------- | -------------------------------------------- | --------------------------------------------------- |
 | Development | `postgres://neon:npg@neon-local:5432/neondb` | Set in `docker-compose.dev.yml` `environment` block |
-| Production  | `postgres://...neon.tech...` | Read from `.env.production` |
+| Production  | `postgres://...neon.tech...`                 | Read from `.env.production`                         |
 
 In development, `database.js` detects the `NEON_LOCAL_HOST` env var and configures the Neon serverless driver to use HTTP against the local proxy. In production, `NEON_LOCAL_HOST` is absent, so the driver connects to Neon Cloud normally.
 
 ## Available Scripts
 
-| Command | Description |
-|---------|-------------|
-| `npm run dev` | Start dev server with file watching |
-| `npm start` | Start production server |
-| `npm run lint` | Run ESLint |
-| `npm run lint:fix` | Run ESLint with auto-fix |
-| `npm run format` | Format code with Prettier |
-| `npm run format:check` | Check formatting |
-| `npm run db:generate` | Generate Drizzle migration from model changes |
-| `npm run db:migrate` | Apply pending migrations |
-| `npm run db:studio` | Open Drizzle Studio |
+| Command                | Description                                   |
+| ---------------------- | --------------------------------------------- |
+| `npm run dev`          | Start dev server with file watching           |
+| `npm start`            | Start production server                       |
+| `npm run lint`         | Run ESLint                                    |
+| `npm run lint:fix`     | Run ESLint with auto-fix                      |
+| `npm run format`       | Format code with Prettier                     |
+| `npm run format:check` | Check formatting                              |
+| `npm run db:generate`  | Generate Drizzle migration from model changes |
+| `npm run db:migrate`   | Apply pending migrations                      |
+| `npm run db:studio`    | Open Drizzle Studio                           |
 
 ## Project Structure
 

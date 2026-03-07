@@ -1,4 +1,9 @@
-import { deleteUserById, fetchAllUsers, fetchUserById, updateUserById } from '#controllers/users.controller.js';
+import {
+  deleteUserById,
+  fetchAllUsers,
+  fetchUserById,
+  updateUserById,
+} from '#controllers/users.controller.js';
 import { authenticateToken, requireRole } from '#middleware/auth.middleware.js';
 import express from 'express';
 
