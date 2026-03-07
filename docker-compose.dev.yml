@@ -25,5 +25,9 @@ services:
       neon-local:
         condition: service_healthy
     volumes:
+      # - - .:/app
+      # - /app/node_modules // this should be here to enable hot reload
       - ./src:/app/src
       - ./drizzle:/app/drizzle
+    # environment:          // for enable hot reload
+    #   - CHOKIDAR_USEPOLLING=true
